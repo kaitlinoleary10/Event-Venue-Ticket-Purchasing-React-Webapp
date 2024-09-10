@@ -7,6 +7,7 @@
         {
           "date": "2024-10-05",
           "time": "20:00",
+          "description": "Join us for an unforgettable evening as we present Beethoven's Symphony No. 9, one of the greatest masterpieces in classical music history! Let the sweeping melodies and triumphant Ode to Joy inspire your soul as a world-class orchestra and choir bring this iconic symphony to life. Feel the passion, the drama, and the celebration of the human spirit that has captivated audiences for centuries.",
           "ticketPrices": {
             "box": 300.00,
             "orchestra": 200.00,
@@ -29,6 +30,7 @@
     {
       "eventName": "The Lion King",
       "category": "Musical",
+      "description": "Step into the Circle of Life and witness the breathtaking magic of Disney’s The Lion King, the musical phenomenon that has captivated over 100 million people worldwide! Immerse yourself in the African savanna with stunning costumes, vibrant choreography, and unforgettable music by Elton John and Tim Rice. From the iconic 'Hakuna Matata' to the heart-stirring 'Can You Feel the Love Tonight', this award-winning production is an experience for all ages.",
       "eventDetails": [
         {
           "date": "2024-11-12",
@@ -55,6 +57,7 @@
     {
       "eventName": "Into the Woods",
       "category": "Musical",
+      "description": "Step Into the Enchanting World of Into the Woods! Join us for an extraordinary journey beyond happily ever after with Stephen Sondheim’s Into the Woods, the spellbinding musical that weaves together your favorite fairytales in a way you've never seen before!Get ready to follow Cinderella, Little Red Riding Hood, Jack (and his beanstalk), and more as they embark on a magical and thought-provoking adventure. With a stunning score by Sondheim and a witty, heartfelt script, this Tony Award-winning musical explores the consequences of wishes, the bonds of family, and the complexity of our desires." 
       "eventDetails": [
         {
           "date": "2024-09-15",
@@ -81,6 +84,13 @@
     {
       "eventName": "Swan Lake",
       "category": "Ballet",
+      "description": "Enter the ethereal world of Swan Lake, where love, betrayal, and magic unfold in one of the most beloved ballets of all time. Set to Tchaikovsky’s enchanting score, this breathtaking production tells the tragic story of Prince Siegfried and Odette, a princess cursed to live as a swan by day and a woman by night.
+
+With its mesmerizing choreography, graceful swans, and sweeping romanticism, Swan Lake captivates audiences with its haunting beauty and powerful emotion. From the dramatic 'Black Swan Pas de Deux' to the elegant 'Dance of the Cygnets', every moment of this ballet is a testament to the triumph of artistry and passion.
+
+Perfect for ballet lovers and newcomers alike, Swan Lake is a timeless journey into a world of elegance, enchantment, and heartache.
+
+Don’t miss the chance to witness this iconic ballet live!",
       "eventDetails": [
         {
           "date": "2024-10-01",
@@ -107,6 +117,14 @@
     {
       "eventName": "John Williams in Concert",
       "category": "Concert",
+      "description": "Prepare to be transported to the worlds of epic adventure, heart-pounding action, and magical wonder as the music of John Williams comes to life in a thrilling concert experience.
+
+From the soaring themes of Star Wars, the suspenseful notes of Jaws, the wonder of E.T., and the heroic fanfare of Indiana Jones, this concert brings together some of the most unforgettable scores in cinematic history, all composed by the legendary John Williams.
+
+Performed by a world-class orchestra, these iconic pieces will make you relive the emotional moments of your favorite films, from the awe-inspiring to the exhilarating. Whether you're a film buff, a music lover, or a fan of Williams' masterpieces, this is a night of symphonic magic you can't miss!
+
+Join us for a once-in-a-lifetime concert!
+Feel the power of music that has defined generations and captured the imaginations of millions.",
       "eventDetails": [
         {
           "date": "2024-11-05",
@@ -133,6 +151,11 @@
     {
       "eventName": "The Magic Flute",
       "category": "Opera",
+      "description": "Step into the magical world of Mozart’s The Magic Flute, a fantastical opera filled with enchanting music, love, and adventure. Follow the journey of Prince Tamino as he embarks on a heroic quest to rescue Princess Pamina, armed with only a magical flute and the help of his comedic sidekick, Papageno. Along the way, they must face mystical trials, wicked foes, and uncover the true nature of wisdom and virtue.
+
+With its brilliant arias, including the famous Queen of the Night’s show-stopping performance, The Magic Flute blends light-hearted comedy, deep symbolism, and Mozart’s unparalleled musical genius. From its mystical settings to the triumph of love and courage, this opera has captivated audiences for over two centuries.
+
+Join us for an unforgettable evening of opera magic, where music and storytelling come together in perfect harmony!",
       "eventDetails": [
         {
           "date": "2024-12-10",
@@ -159,6 +182,13 @@
     {
       "eventName": "West Side Story",
       "category": "Musical",
+      "description": "Immerse yourself in the electrifying world of West Side Story, where love, rivalry, and passion collide on the streets of New York. Inspired by Shakespeare’s Romeo and Juliet, this iconic musical tells the story of star-crossed lovers Tony and Maria, caught in the fierce conflict between rival gangs, the Jets and the Sharks.
+
+With unforgettable songs like 'Tonight', 'Maria', and 'America', and breathtaking choreography by Jerome Robbins, West Side Story blends stunning dance with Leonard Bernstein’s exhilarating score and Stephen Sondheim’s powerful lyrics.
+
+This groundbreaking musical is a vivid portrayal of love, tragedy, and hope, and its themes of racial tension and social conflict remain as relevant today as ever. Whether you're experiencing it for the first time or revisiting a classic, West Side Story promises to captivate with its intense emotion and timeless beauty.
+
+Don’t miss the chance to witness this legendary production live on stage!",
       "eventDetails": [
         {
           "date": "2024-10-22",
@@ -185,6 +215,13 @@
     {
       "eventName": "The Rolling Stones",
       "category": "Concert",
+      "description": "Get ready for an unforgettable night of pure rock energy as The Rolling Stones bring their iconic sound and electrifying stage presence to the concert of a lifetime!
+
+For decades, Mick Jagger, Keith Richards, and the band have defined the spirit of rock 'n' roll with legendary hits like 'Satisfaction', 'Paint It Black', 'Jumpin' Jack Flash', and 'Sympathy for the Devil'. Now, experience the raw power, swagger, and showmanship that have made The Stones one of the greatest rock bands in history.
+
+With their timeless music, high-energy performance, and larger-than-life charisma, this is a concert that will have you on your feet, singing along to every classic hit. Whether you're a lifelong fan or new to their music, The Rolling Stones live is a rock 'n' roll experience you won’t want to miss.
+
+Get your tickets now for a night of rock history in the making!",
       "eventDetails": [
         {
           "date": "2024-09-20",
@@ -211,6 +248,13 @@
     {
       "eventName": "Giselle",
       "category": "Ballet",
+      "description": "Step into a world of ethereal beauty and haunting emotion with Giselle, one of the most enchanting and beloved ballets in the classical repertoire. This timeless masterpiece tells the story of Giselle, a young peasant girl whose innocent love for a nobleman leads to heartache and tragedy.
+
+In the first act, Giselle’s pure heart is shattered by betrayal, but her spirit transcends mortal bounds in the second act as she becomes a Wilis, a ghostly figure who must protect other young men from a similar fate. With its delicate choreography, exquisite costumes, and Tchaikovsky’s evocative score, Giselle explores themes of love, forgiveness, and the supernatural.
+
+Witness the grace and emotion of this classic ballet, where every movement tells a story and every performance is a testament to the power of dance and music.
+
+Join us for a mesmerizing evening of ballet that will leave you spellbound. ",
       "eventDetails": [
         {
           "date": "2024-10-28",
@@ -237,6 +281,13 @@
     {
       "eventName": "Moulin Rouge!",
       "category": "Musical",
+      "description": "Step into the vibrant and exhilarating world of Moulin Rouge! The Musical, where romance and glitz collide in an unforgettable theatrical experience! Set in the bohemian heart of Paris, this spectacular production brings to life the iconic tale of love, ambition, and artistic passion.
+
+Follow the tumultuous romance between Christian, a young writer, and Satine, the sparkling star of the Moulin Rouge, as they navigate a world of lavish cabarets, flamboyant costumes, and unforgettable music. With a sensational score featuring hits from artists like Elton John, Lady Gaga, and Dua Lipa, this musical promises to keep you on the edge of your seat with its high-energy dance numbers, emotional depth, and dazzling visuals.
+
+Prepare to be swept away by a whirlwind of romance, glamour, and heart-stopping performances that capture the magic of the legendary Parisian nightclub.
+
+Don’t miss your chance to experience this breathtaking musical live! Let the magic of the Moulin Rouge ignite your senses and capture your heart.",
       "eventDetails": [
         {
           "date": "2024-11-25",
@@ -263,6 +314,13 @@
     {
       "eventName": "King Lear",
       "category": "Play",
+      "description": "Experience the raw intensity and profound drama of William Shakespeare’s King Lear, one of the Bard's most powerful and enduring tragedies. This timeless play delves into themes of loyalty, madness, and the complexities of familial relationships as it follows the tragic downfall of King Lear.
+
+In this gripping tale, Lear's decision to divide his kingdom among his three daughters sets off a chain of events that leads to betrayal, conflict, and chaos. As Lear grapples with his own mistakes and the treachery of those he trusted, the play explores the human condition with devastating clarity and emotional depth.
+
+Featuring a commanding performance by a stellar cast, stunning direction, and a masterful adaptation of Shakespeare's intricate language, King Lear promises a theatrical experience that is both thought-provoking and heart-wrenching.
+
+Join us for an evening of Shakespearean drama that will leave you reflecting on the timeless themes of power, justice, and human folly.",
       "eventDetails": [
         {
           "date": "2024-10-17",
@@ -289,6 +347,13 @@
     {
       "eventName": "Coldplay: Music of the Spheres Tour",
       "category": "Concert",
+      "description": "Prepare to embark on an extraordinary musical journey with Coldplay’s Music of the Spheres Tour, where the band will transport you to otherworldly realms with their mesmerizing sound and dazzling visuals.
+
+Immerse yourself in an evening filled with anthems of hope, wonder, and connection as Chris Martin and the band perform tracks from their critically acclaimed album Music of the Spheres. From the soaring energy of 'Higher Power' to the introspective beauty of 'Let Somebody Go', each song promises to be an emotional and uplifting experience.
+
+Expect a night of stunning light shows, breathtaking visuals, and an immersive atmosphere that will make you feel like you're part of a cosmic adventure. Coldplay’s innovative stage design and captivating performances will create an unforgettable concert experience that bridges the gap between music and imagination.
+
+Don’t miss your chance to witness Coldplay’s magical live show. Secure your tickets now and be part of a concert that promises to be out of this world!",
       "eventDetails": [
         {
           "date": "2024-12-05",
@@ -315,6 +380,13 @@
     {
       "eventName": "Sleeping Beauty",
       "category": "Ballet",
+      "description": "Step into a fairytale world with Sleeping Beauty, a ballet that has enchanted audiences for generations with its magical story and exquisite choreography. Set to Tchaikovsky’s sublime score, this timeless classic unfolds the enchanting tale of Princess Aurora, who falls into a deep sleep under a wicked fairy's curse, only to be awakened by a prince’s kiss.
+
+From the lavish court scenes to the ethereal dance of the fairies, Sleeping Beauty features stunning costumes, graceful movements, and mesmerizing performances that bring the fairytale to life. The ballet’s grandeur and elegance are matched by its beautiful score, including the iconic 'Rose Adagio' and 'Dance of the Sugar Plum Fairy'.
+
+Experience the magic of this beloved ballet, where dreams, love, and redemption come together in a spellbinding performance that promises to captivate and delight audiences of all ages.
+
+Join us for a night of ballet magic and let yourself be swept away by the beauty of Sleeping Beauty. ",
       "eventDetails": [
         {
           "date": "2024-12-01",
@@ -341,6 +413,13 @@
     {
       "eventName": "Les Misérables",
       "category": "Musical",
+      "description": "Experience the grandeur and emotional depth of Les Misérables, the acclaimed musical that brings Victor Hugo’s powerful tale of revolution, love, and sacrifice to life on stage. This sweeping saga unfolds in the turbulent years of post-revolutionary France, following the lives of unforgettable characters as they struggle for justice and redemption.
+
+From the heart-wrenching story of Jean Valjean, a man seeking redemption after years of imprisonment, to the fierce determination of Fantine, and the passionate defiance of the students’ revolution, Les Misérables captivates with its stirring score, including classics like 'I Dreamed a Dream', 'On My Own', and 'Do You Hear the People Sing?'
+
+With its moving narrative, unforgettable music, and spectacular staging, this musical is a tribute to the human spirit and the quest for freedom.
+
+🎟 Don’t miss your chance to witness this landmark production. Secure your tickets now and be part of a truly transformative theater experience.",
       "eventDetails": [
         {
           "date": "2024-09-28",
@@ -393,6 +472,13 @@
     {
       "eventName": "Beyoncé Renaissance Tour",
       "category": "Concert",
+      "description": "Get ready to experience the ultimate celebration of music and artistry with Beyoncé’s Renaissance Tour, a dazzling live performance that promises to showcase the Queen of Pop at her most electrifying.
+
+Prepare for a night filled with powerful vocals, cutting-edge choreography, and a spectacle of visuals that only Beyoncé can deliver. From the vibrant beats of her latest album, Renaissance, to timeless hits that have defined her illustrious career, this tour will feature an unforgettable setlist of anthems that celebrate individuality, empowerment, and joy.
+
+Beyoncé’s dynamic stage presence, coupled with her impeccable showmanship and innovative stage design, will make every moment of this concert a thrilling experience. Expect to be captivated by stunning costumes, high-energy performances, and an immersive atmosphere that will leave you inspired and exhilarated.
+
+Secure your tickets now for a night of music and magic that only Beyoncé can provide. Join us for an unforgettable journey into the world of Renaissance and celebrate the unparalleled artistry of one of the greatest performers of our time!",
       "eventDetails": [
         {
           "date": "2024-09-27",
